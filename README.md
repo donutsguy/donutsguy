@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 [![Donutsguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=donutsguy&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://redme-stats.vercel.app/api/top-langs/?username=donutsguys&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://redme-stats.vercel.app/api/top-langs/?username=donutsguy&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
